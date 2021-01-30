@@ -1,0 +1,10 @@
+.main-header{
+border-radius: 2rem 2rem 0rem 0rem;
+background: linear-gradient(violet,darkviolet);
+}
+
+.img{
+   width: 12rem;
+  border-radius: 1rem;
+   background: black;
+}

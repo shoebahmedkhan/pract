@@ -1,14 +1,11 @@
-
 import React from 'react'
-import DetailForm from './Components/DetailForm';
 import './App.css';
-
-
+import { Landing } from './Components/HomePage/Landing';
 
 export default function App() {
   return (
     <div className="App">
- <DetailForm/>
+ <Landing/>
     </div>
   )
 }
